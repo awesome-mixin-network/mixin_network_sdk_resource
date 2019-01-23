@@ -1,5 +1,5 @@
-# mixin_network_sdk_resource
-SDK introduction
+# Mixin Network development resource
+SDK, Tutorial and exmample
 
 
 |Programming language |Address| Tutorial|Example|
