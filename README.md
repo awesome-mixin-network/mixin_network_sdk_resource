@@ -4,7 +4,7 @@ SDK introduction
 
 |Programming language |Address| Tutorial|Example|
 |--|--|--|--|
-|Ruby|[an-lee/mixin_bot](https://github.com/an-lee/mixin_bot)|--|
+|Ruby|[an-lee/mixin_bot](https://github.com/an-lee/mixin_bot)|--|[imin.xin](https://imin.xin/):[code](https://github.com/an-lee/iminxin)|
 |Python3.x|[includeleec/mixin-python3-sdk](https://github.com/includeleec/mixin-python3-sdk)|--|--|
 |Python2.x|[myrual/mixin_client_demo](https://github.com/myrual/mixin_client_demo)|--|--|
 |Go lang| [MixinNetwork/bot-api-go-client](https://github.com/MixinNetwork/bot-api-go-client)|--|--|
