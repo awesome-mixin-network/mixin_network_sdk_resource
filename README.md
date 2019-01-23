@@ -12,4 +12,5 @@ SDK, Tutorial and exmample
 |Java|[qige-one/mixin_java_sdk](http://github.com/qige-one/mixin_java_sdk)|[Tutorial in Java](https://github.com/wenewzhang/mixin_labs-java-bot)|--|
 |PHP|[ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php)|[Tutorial in PHP](https://github.com/wenewzhang/mixin_labs-php-bot)|[xiudongy/flarum](https://github.com/xiudongy/flarum);[MixinKeys](https://github.com/if1242/MixinKeys)|
 |Node.js|[wangshijun/mixin-node-client](http://github.com/wangshijun/mixin-node-client)|[Tutorial in  Node.js](https://github.com/wenewzhang/mixin_network-nodejs-bot2)|[love-seal](https://github.com/lyricat/love-seal);[https://diceos.com](https://github.com/diceos/diceos-p),[https://www.mixin.bet/](https://github.com/lotter1988/lottery)|
+|Node.js|[virushuo/mixin-node](https://github.com/virushuo/mixin-node)| -- |--|
 |Javascript|-- |--|[mixin-light-wallet](https://github.com/MixinLight/mixin-light-wallet);[mixwallet](https://github.com/over140/mixwallet)|
