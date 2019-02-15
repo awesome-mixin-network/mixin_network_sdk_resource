@@ -18,3 +18,8 @@ SDK, Tutorial and exmample
 
 
 ### [Mixin Network API Supported by SDK](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/mixin_network_api_cover_community_sdk.md)
+### [How to xxx in Mixin Network](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/how_to_mixin_network_cn.md)
+1. How to create Bitcoin wallet
+2. How to check Bitcoin balance
+3. How to tranfser Bitcoin to another Mixin Network account
+4. How to transfer Bitcoin to exchange or another wallet
