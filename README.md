@@ -1,5 +1,5 @@
 # Mixin Network development resource
-SDK, Tutorial and exmample
+SDK, Tutorial and examples
 
 
 |Programming language |SDK| Tutorial|Example|
