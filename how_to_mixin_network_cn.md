@@ -19,6 +19,9 @@
 2. Make sure the account has created a withdrawal address
 
 
-##<a name="PIN-code-introduction"></a> what is PIN code
+##<a name="pin-code-introduction"></a> what is PIN code
 PIN code is a six digit number. It is part of security design of Mixin Network account. User need to provide correct PIN code to update PIN code, transfer asset, create withdraw address and other operation.
+
 Developer can create PIN code by calling [API](), [Ruby](), [Python3](), [Go SDK from Mixin team](), [Go SDK from Foxone](), [PHP](), [Node.js](), [CSharp]()
+
+The same API can be used to update PIN.
