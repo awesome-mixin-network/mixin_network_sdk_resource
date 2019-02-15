@@ -1,6 +1,6 @@
 # API cover
 
-❓ -> Not supported yet
+❓= Not supported yet
 
 | API |[Ruby](https://github.com/an-lee/mixin_bot)| [Python3](https://github.com/includeleec/mixin-python3-sdk)|[Go:Mixin team](https://github.com/MixinNetwork/bot-api-go-client)| [Go:MooooonStar](https://github.com/MooooonStar/mixin-sdk-go)| [Java](http://github.com/qige-one/mixin_java_sdk)| [PHP](https://github.com/ExinOne/mixin-sdk-php)| [Node.js:Wangshijun](http://github.com/wangshijun/mixin-node-client)|[Node.js:Virushuo](https://github.com/virushuo/mixin-node)| [Csharp](https://github.com/ibigbug/Mixin-SDK-CSharp)|
 |--|--|--|--|--|--|--|--|--|--|
