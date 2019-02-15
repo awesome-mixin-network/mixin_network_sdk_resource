@@ -1,4 +1,4 @@
-# API cover
+# Statistics: API Supported by SDK 
 
 ❓= Not supported yet
 
