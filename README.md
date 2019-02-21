@@ -30,9 +30,11 @@ Tutorial in
 * [Golang]()
 
 ### How to trading Bitcoin in Mixin Network
+[ExinCore](https://github.com/ExinOne/ExinCore) provide API to buy and sell Bitcoin. Developer can use their favorite programming language to trade crypto currency.
+
 1. How to buy Bitcoin by selling USDT
 2. How to buy USDT by selling Bitcoin
 3. How to buy EOS
 
 Tutorial in 
-* [PHP](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README3.md)
+* [PHP](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README4.md)
