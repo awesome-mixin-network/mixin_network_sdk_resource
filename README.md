@@ -23,3 +23,8 @@ SDK, Tutorial and examples
 2. How to check Bitcoin balance
 3. How to tranfser Bitcoin to another Mixin Network account
 4. How to transfer Bitcoin to exchange or another wallet
+
+### How to trading Bitcoin in Mixin Network
+1. How to buy Bitcoin by selling USDT
+2. How to buy USDT by selling Bitcoin
+3. How to buy EOS
