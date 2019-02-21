@@ -24,7 +24,15 @@ SDK, Tutorial and examples
 3. How to tranfser Bitcoin to another Mixin Network account
 4. How to transfer Bitcoin to exchange or another wallet
 
+Tutorial in 
+* [PHP](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README3.md)
+* [Python]()
+* [Golang]()
+
 ### How to trading Bitcoin in Mixin Network
 1. How to buy Bitcoin by selling USDT
 2. How to buy USDT by selling Bitcoin
 3. How to buy EOS
+
+Tutorial in 
+* [PHP](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README3.md)
