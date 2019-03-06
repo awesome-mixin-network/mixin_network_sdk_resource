@@ -25,7 +25,7 @@ SDK, Tutorial and examples
 3. [Go tutorial](https://github.com/wenewzhang/mixin_labs-go-bot)
 4. [Java tutorial](https://github.com/wenewzhang/mixin_labs-java-bot)
 5. [Node.js tutorial](https://github.com/wenewzhang/mixin_network-nodejs-bot2)
-### [How to xxx by Mixin Network API](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/how_to_mixin_network_cn.md)
+### [How to: by Mixin Network API](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/how_to_mixin_network_cn.md)
 
 ### How to trading Bitcoin in Mixin Network
 [ExinCore](https://github.com/ExinOne/ExinCore) provide API to buy and sell Bitcoin. Developer can use their favorite programming language to trade crypto currency.
