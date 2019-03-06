@@ -1,3 +1,6 @@
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Mixin-Network/Lobby)
+
+[Developer groups in Mixin messenger](https://mixin.one/codes/a845c701-7bdc-42f4-aec4-9b16b3cc5893)
 # Mixin Network development resource
 SDK, Tutorial and examples
 
