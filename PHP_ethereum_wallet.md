@@ -2,7 +2,7 @@
 Developer can use PHP to create unlimited Ethereum wallet to hold all kinds of ERC20 token.
 Based on Mixin Network, user can deposit any ERC20 token into the wallet, transfer token to other user in 1 second with zero transaction fee. User can withdraw token to any other Ethereum wallet at any time, no review required.
 
-## Benefits for developer
+## Designed for developer
 #### Pay $0 to create wallet and tranfer token and receive token in 1 second
 You don't need to topup any token to create account, or rent RAM, CPU, NET resource. We don't force you input credit card number.
 #### No approval required
