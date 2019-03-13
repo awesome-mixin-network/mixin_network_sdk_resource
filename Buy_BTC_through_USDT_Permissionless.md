@@ -12,6 +12,7 @@ Every transaction between you and DEX can be verified on blockchain explorer.
 | who own asset before order is matched | operator of exchange | user | OceanOne account|
 | need approve before withdraw asset| YES | NO | NO|
 | User need to provide human ID to withdraw asset| YES | NO | NO |
+| How to add new asset trading| Approve by exchange | Approve by tech team | All assets supported by Mixin Network| 
 
 ## How to trading on Mixin Network
 There are many way to buy bitcoin on ocean.one
