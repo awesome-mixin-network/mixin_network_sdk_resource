@@ -9,7 +9,7 @@ Every transaction between you and DEX can be verified on blockchain explorer.
 | --|--|--|--|
 | who control user's asset|operator of exchange|user|user|
 | speed to match order | very fast | slow | very fast|
-| who own asset before order is matched | operator of exchange | user | OceanOne on Mixin|
+| who own asset before order is matched | operator of exchange | user | OceanOne account|
 | need approve before withdraw asset| YES | NO | NO|
 | User need to provide human ID to withdraw asset| YES | NO | NO |
 
