@@ -33,12 +33,12 @@ We build a more flexible exchange [mixcoin](https://mixcoin.one), you can login 
 #### wallet
 If you don't want register a new account on Mixin Messenger, you still have other way to generate mixin network wallet.
 
-1. [mixinlight]A google chrome wallet plugin, free and open source
-2. A python script wallet
-3. A PHP script wallet
-4. A C Sharp script wallet
-5. A Nodejs wallet
-6. A go lang script wallet
+1. [mixinlight](https://mixinlight.github.io/): A google chrome Mixin wallet plugin, free and open source
+2. [mixin python light]():A light wallet written in python
+3. [mixin PHP light]]: A light wallet written in PHP
+4. [mixin CSharp light]: A light wallet written in C sharp
+5. [mixin Node light]: A wallet written in Nodejs
+6. [mixin go light]: A wallet written in go lang
 
 In fact, even the app can not know your account balance because app don't own your account private key.
 
