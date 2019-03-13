@@ -21,6 +21,9 @@ So we can say every transaction between you and DEX can be verified on blockchai
 
 ## How to trading on Mixin Network
 There are many way to buy bitcoin on ocean.one
+1. All in one solution
+2. Mobile app solution
+3. Register free solution
 
 ### All in one solution
 Mixin team made a [website](https://ocean.one). Create an account by your phone number or email address. Deposit USDT and place your order in browser.
