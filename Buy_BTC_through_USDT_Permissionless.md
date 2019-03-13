@@ -31,7 +31,20 @@ We build a more flexible exchange [mixcoin](https://mixcoin.one), you can login 
 
 ### Register free solution
 #### wallet
-If you don't want register a new account on Mixin Messenger, you can download a google chrome wallet plugin, it is free and open source Mixin Network wallet. Then deposit USDT into the wallet.
+If you don't want register a new account on Mixin Messenger, you still have other way to generate mixin network wallet.
+
+1. [mixinlight]A google chrome wallet plugin, free and open source
+2. A python script wallet
+3. A PHP script wallet
+4. A C Sharp script wallet
+5. A Nodejs wallet
+6. A go lang script wallet
+
+In fact, even the app can not know your account balance because app don't own your account private key.
+
+Because only A Mixin Network App can create account. You can also create your own app by visiting [Dev dashboard](https://developers.mixin.one)
+
+
 #### Exchange
 Now you need to place order.
 You can download python script to help you to generate order
