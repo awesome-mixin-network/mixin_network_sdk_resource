@@ -16,7 +16,9 @@ All transaction can be audited on blockchain explorer.
 Mixin network is a great solution for DAO and stable coin.
 
 #### Trade your coin inside wallet.
-Mixin team build an exchange based on Mixin Network, You can buy and sell your coin through it.
+Mixin team build an opensource decentralized exchange based on Mixin Network, You can buy and sell your coin through it.
+
+You can also build your own exchange to serve your client.
 
 #### Trade BTC, USDT inside wallet.
 ExinCore provide a comercial API gateway in Mixin Network, you can buy and sell major coin through it.
