@@ -7,9 +7,9 @@ Clever people create some DEC(decentralized exchange).
 ## Introduce another DEX: [Ocean.one](https://ocean.one)
 This is an open source DEX based on a blockchain: [Mixin Network](https://mixin.one). It's main net is online on 28 Feb 2019. There are 15 gensis nodes in the main net.
 
-So we can say every transaction between you and DEX can be verified on blockchain explored.
+So we can say every transaction between you and DEX can be verified on blockchain explorer.
 
-#### Exchange compare
+#### Compare exchange
 
 | -- | centralized exchange | de-centralized exchange| centralied exchanged on blockchain|
 | --|--|--|--|
@@ -19,7 +19,7 @@ So we can say every transaction between you and DEX can be verified on blockchai
 | need approve before withdraw asset| YES | NO | NO|
 | User need to provide human ID to withdraw asset| YES | NO | NO |
 
-## How to trading on Ocean.one
+## How to trading on Mixin Network
 There are many way to buy bitcoin on ocean.one
 
 ### All in one solution
