@@ -2,7 +2,7 @@
 ## Solution One: pay to ExinCore API
 [Exincore](https://github.com/exinone/exincore) provide a commercial trading API on mixin network.
 
-You pay USDT to ExinCore on Mixin Network, ExinCore transfer Bitcoin to you on the fly with very low fee and fair price. Every transaction is anonymous but still can be verified on blockchain explorer.
+You pay USDT to ExinCore, ExinCore transfer Bitcoin to you on the fly with very low fee and fair price. Every transaction is anonymous but still can be verified on blockchain explorer.
 
 
 ### Pre-request:
