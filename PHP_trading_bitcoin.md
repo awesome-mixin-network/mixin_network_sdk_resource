@@ -3,8 +3,9 @@
 ## Solution One: pay to ExinCore API
 [Exincore](https://github.com/exinone/exincore) provide a commercial trading API on mixin network.
 
-You pay USDT to ExinCore, ExinCore transfer Bitcoin to you on the fly with very low fee and fair price. Every transaction is anonymous but still can be verified on blockchain explorer.
+You pay USDT to ExinCore, ExinCore transfer Bitcoin to you on the fly with very low fee and fair price. Every transaction is anonymous to public but still can be verified on blockchain explorer. Only you and exincore know the details.
 
+ExinCore don't know who you are because ExinCore only know your client's uuid.
 
 ### Pre-request:
 You should already have created a wallet based on Mixin Network. Create one by reading [PHP Bitcoin tutorial](https://github.com/wenewzhang/mixin_labs-php-bot).
