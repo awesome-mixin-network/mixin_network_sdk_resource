@@ -1,21 +1,15 @@
-# How to buy Bitcoin through USDT and withdraw to Bitcoin wallet without any approval
-Bitcoin is great. The first working eletronic cash. It is 2019, KYC(Know your customer) is a basic process in every centralized exchange. It is OK for customer to follow KYC if they pay fiat money. But it is not ok when exchange is hacked or the boss become a bad guy or they just don't want you move your money.
-
-## DEX
-Clever people create some DEC(decentralized exchange). 
-
 ## Introduce another DEX: [Ocean.one](https://ocean.one)
-This is an open source DEX based on a blockchain: [Mixin Network](https://mixin.one). It's main net is online on 28 Feb 2019. There are 15 gensis nodes in the main net.
+This is an open source DEX based on a running blockchain: [Mixin Network](https://mixin.one). Mixin Network main net is online on 28 Feb 2019. There are 15 gensis nodes in the main net. The explorer of the blockchain is [here](https://mixin.one/http://mixin.one/snapshots)
 
-So we can say every transaction between you and DEX can be verified on blockchain explorer.
+Every transaction between you and DEX can be verified on blockchain explorer.
 
-#### Compare exchange
+#### Compare exchange between Centralized exchange and de-centralized exchange and centralized exchange on de-centralized network
 
 | -- | centralized exchange | de-centralized exchange| centralied exchanged on blockchain|
 | --|--|--|--|
 | who control user's asset|operator of exchange|user|user|
 | speed to match order | very fast | slow | very fast|
-| who own asset before order is matched | operator of exchange | user | centralized app on blockchain|
+| who own asset before order is matched | operator of exchange | user | OceanOne on Mixin|
 | need approve before withdraw asset| YES | NO | NO|
 | User need to provide human ID to withdraw asset| YES | NO | NO |
 
