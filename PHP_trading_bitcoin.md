@@ -1,4 +1,4 @@
-# How to buy bitcoin and withdraw bitcoin through PHP language without provide your idendity
+# How to trade bitcoin through PHP language
 
 ## Solution One: pay to ExinCore API
 [Exincore](https://github.com/exinone/exincore) provide a commercial trading API on mixin network.
