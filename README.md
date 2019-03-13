@@ -24,7 +24,7 @@ SDK, Tutorial and examples
 
 ### Tutorial: Create bot to receive and send message, receive and send Bitcoin, create bitcoin wallet
 1. [Python tutorial](https://github.com/wenewzhang/mixin_labs-python-bot): [create bot](https://github.com/wenewzhang/mixin_labs-python-bot/blob/master/README.md), [use bot to receive bitcoin](https://github.com/wenewzhang/mixin_labs-python-bot/blob/master/README2.md), [create bitcoin wallet](https://github.com/wenewzhang/mixin_labs-python-bot/blob/master/README3.md)
-2. [PHP tutorial](https://github.com/wenewzhang/mixin_labs-php-bot)
+2. [PHP tutorial](https://github.com/wenewzhang/mixin_labs-php-bot): [create bot](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README.md), [use bot to receive bitcoin](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README2.md), [create bitcoin wallet](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README3.md)
 3. [Go tutorial](https://github.com/wenewzhang/mixin_labs-go-bot)
 4. [Java tutorial](https://github.com/wenewzhang/mixin_labs-java-bot)
 5. [Node.js tutorial](https://github.com/wenewzhang/mixin_network-nodejs-bot2)
