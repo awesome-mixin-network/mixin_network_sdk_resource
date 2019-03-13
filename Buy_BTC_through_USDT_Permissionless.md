@@ -5,7 +5,7 @@ Every transaction between you and DEX can be verified on blockchain explorer.
 
 #### Compare exchange between Centralized exchange and de-centralized exchange and centralized exchange on de-centralized network
 
-| -- | centralized exchange | de-centralized exchange| centralied exchanged on blockchain|
+| -- | centralized exchange | de-centralized exchange on blockchain| centralied exchanged on blockchain|
 | --|--|--|--|
 | who control user's asset|operator of exchange|user|user|
 | speed to match order | very fast | slow | very fast|
