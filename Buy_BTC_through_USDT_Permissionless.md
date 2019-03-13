@@ -8,3 +8,16 @@ Clever people create some DEC(decentralized exchange).
 This is a DEX based on a blockchain: [Mixin Network](https://mixin.one). It's main net is online on 28 Feb 2019. There are 15 gensis nodes in the main net.
 
 So we can say every transaction between you and DEX can be verified on blockchain explored.
+
+Exchange compare
+
+| feature | centralized exchange | de-centralized exchange| centralied exchanged on blockchain|
+| --|--|--|--|
+| who control user's asset|operator of exchange|user|user|
+| how fast to match order | very fast | slow | very fast|
+| who own asset before order is matched | operator of exchange | user | centralized app on blockchain|
+| need approve before withdraw asset| yes | no | no|
+| User need to provide human ID to withdraw asset| YES | NO | NO |
+
+
+# Share a secure exchange
