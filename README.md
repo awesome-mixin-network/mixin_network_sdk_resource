@@ -23,7 +23,7 @@ SDK, Tutorial and examples
 ### [Mixin Network API Supported by SDK](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/mixin_network_api_cover_community_sdk.md)
 
 ### Tutorial: Create bot to receive and send message, receive and send Bitcoin, create bitcoin wallet
-1. [Python tutorial](https://github.com/wenewzhang/mixin_labs-python-bot)
+1. [Python tutorial](https://github.com/wenewzhang/mixin_labs-python-bot): [create bot](https://github.com/wenewzhang/mixin_labs-python-bot/blob/master/README.md), [use bot to receive bitcoin](https://github.com/wenewzhang/mixin_labs-python-bot/blob/master/README2.md), [create bitcoin wallet](https://github.com/wenewzhang/mixin_labs-python-bot/blob/master/README3.md)
 2. [PHP tutorial](https://github.com/wenewzhang/mixin_labs-php-bot)
 3. [Go tutorial](https://github.com/wenewzhang/mixin_labs-go-bot)
 4. [Java tutorial](https://github.com/wenewzhang/mixin_labs-java-bot)
