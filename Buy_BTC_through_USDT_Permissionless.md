@@ -14,31 +14,30 @@ Every transaction between you and DEX can be verified on blockchain explorer.
 | User need to provide human ID to withdraw asset| YES | NO | NO |
 | How to add new asset trading| Approve by exchange | Approve by tech team | All assets supported by Mixin Network| 
 
-## How to trading on Mixin Network
-There are many way to buy bitcoin on ocean.one
-1. All in one solution
-2. Mobile app solution
-3. Register free solution
 
-### All in one solution
-Mixin team made a [website](https://ocean.one). Create an account by your phone number or email address. Deposit USDT and place your order in browser.
+## All in one solution to buy BTC
+Visit https://ocean.one, register an account, deposit USDT and create your order, withdraw your BTC to your favorite BTC wallet. Very easy, NO kyc.
+## Mixin Messenger user friendly solution
 
-### Mobile friendly solution
-#### Mobile wallet
-If you don't want to register a new account on the web, or you prefer a mobile app, you can visit https://mixin.one/messenger to download the official client build by Mixin Network.
-#### Exchange
-We build a more flexible exchange [mixcoin](https://mixcoin.one), you can login with your Mixin Messenger app.
+Mixin messenger is a wallet build by Mixin Network team. You can visit https://mixcoin.one, login the web with Mixin Messenger and create your order. 
+
+## Anonymous solution
+* You should have a Mixin Network wallet
+* Deposit USDT into your wallet
+* Pay USDT to Ocean.one exchange
+* Ocean.One pay you BTC if your order is taken
+* Withdraw BTC to your other BTC wallet if you want
+
+#### How to get a Mixin Network wallet anonymously
+
+1. [mixinlight](https://mixinlight.github.io/): A google chrome Mixin wallet plugin, free and open source
+
+#### How to make order anonymously
+
 
 ### Register free solution
 #### wallet
 If you don't want register a new account on Mixin Messenger, you still have other way to generate mixin network wallet.
-
-1. [mixinlight](https://mixinlight.github.io/): A google chrome Mixin wallet plugin, free and open source
-2. [mixin python light]():A light wallet written in python
-3. [mixin PHP light]]: A light wallet written in PHP
-4. [mixin CSharp light]: A light wallet written in C sharp
-5. [mixin Node light]: A wallet written in Nodejs
-6. [mixin go light]: A wallet written in go lang
 
 In fact, even the app can not know your account balance because app don't own your account private key.
 
