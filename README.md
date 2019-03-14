@@ -4,6 +4,7 @@
 # Mixin Network development resource
 SDK, Tutorial and examples
 
+[Document on GitBook](https://mixin-network.gitbook.io/mixin-network/)
 
 |Programming language |SDK|Example|
 |--|--|--|
