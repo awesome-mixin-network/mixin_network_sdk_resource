@@ -33,10 +33,14 @@ SDK, Tutorial and examples
 
 ### [How to: by Mixin Network API](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/how_to_mixin_network_cn.md)
 
-### How to trading Bitcoin in Mixin Network
+### How to buy Bitcoin in Mixin Network
 #### ExinCore solution:
 [ExinCore](https://github.com/ExinOne/ExinCore) provide API to buy and sell Bitcoin. Developer can use their favorite programming language to trade crypto currency.
-#### Exincore Bitcoin trading tutorial
+
+##### wallet support exin:
+[Python wallet support ExinCore traiding](https://github.com/myrual/bitcoin-cli-wallet-python)
+
+##### Instant Exincore Bitcoin trading tutorial
 [Trading Bitcoin by PHP languge](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README4.md)
 
 [Trading Bitcoin by Go languge](https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README4.md)
@@ -44,3 +48,4 @@ SDK, Tutorial and examples
 [Trading Bitcoin by Javascript](https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README4.md)
 
 [Trading Bitcoin by C#](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README4.md)
+
