@@ -38,4 +38,9 @@ SDK, Tutorial and examples
 [ExinCore](https://github.com/ExinOne/ExinCore) provide API to buy and sell Bitcoin. Developer can use their favorite programming language to trade crypto currency.
 #### Exincore Bitcoin trading tutorial
 [Trading Bitcoin by PHP languge](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README4.md)
+
 [Trading Bitcoin by Go languge](https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README4.md)
+
+[Trading Bitcoin by Javascript](https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README4.md)
+
+[Trading Bitcoin by C#](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README4.md)
