@@ -13,7 +13,7 @@ SDK, Tutorial and examples
 |Python2.x|--| [mixin_client_demo](https://github.com/myrual/mixin_client_demo)  [mixin_network_api_example](https://github.com/myrual/mixin_network_api_example)  [opensource_cnb_atm](https://github.com/myrual/opensource_cnb_atm)|
 |Go lang| [MixinNetwork/bot-api-go-client](https://github.com/MixinNetwork/bot-api-go-client)|[hacknews](https://github.com/crossle/hacker-news-mixin-bot);[ever-post](https://github.com/caosbad/ever-post-mixin-bot)|
 |Go lang  |[MooooonStar/mixin-sdk-go](https://github.com/MooooonStar/mixin-sdk-go)|[https://www.dodice.com](https://github.com/soooooooon/rock) |
-|Java|[wenewzhang/mixin-java-sdk](https://github.com/wenewzhang/mixin-java-sdk/tree/master/src/main/java/mixin/java/sdk)|--|
+|Java|[wenewzhang/mixin-java-sdk](https://github.com/wenewzhang/mixin-java-sdk)|--|
 |PHP|[ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php)|[xiudongy/flarum](https://github.com/xiudongy/flarum);[MixinKeys](https://github.com/if1242/MixinKeys)|
 |Node.js|[wangshijun/mixin-node-client](http://github.com/wangshijun/mixin-node-client)|--|
 |Node.js|[virushuo/mixin-node](https://github.com/virushuo/mixin-node)|--|
