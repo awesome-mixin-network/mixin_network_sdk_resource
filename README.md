@@ -50,3 +50,7 @@ SDK, Tutorial and examples
 
 [Trading Bitcoin by C#](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README4.md)
 
+
+#### OceanOne solution:
+OceanOne is an exchange build on Mixin Network. It provide market information throught http and websocket interface.
+Make ask or bid order is done by pay asset to Ocean account: aaff5bef-42fb-4c9f-90e0-29f69176b7d4
