@@ -66,7 +66,7 @@ GET https://events.ocean.one/markets/965e5c6e-434c-3fa9-b780-c50f43cd955c-815b0b
     'timestamp': '2019-04-21T14:26:56.813727114Z'}}
 ```
 
-OceanOne also provide websocket interface to fetch market order.
+OceanOne also provide [websocket interface](https://github.com/mixinnetwork/ocean.one#events) to fetch market order.
 
 ### How to list order
 As a decentralized exchage, OceanOne don't force you register any account. So how to list order or cancel order? Just pay to OceanOne's Mixin Network account: aaff5bef-42fb-4c9f-90e0-29f69176b7d4 from your mixin network wallet. 
