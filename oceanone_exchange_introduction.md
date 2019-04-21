@@ -6,7 +6,7 @@ OceanOne is a decentralized exchange build on Mixin Network. It's almost the fir
 
 I paid 1 USDT to buy CNB. Just 4 seconds, CNB asset has been in my wallet.
 
-![]()
+![](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/Buy_CNB_By_Selling_USDT.png)
 
 ### How to query market price
 Visit https://events.ocean.one/markets/:id/book to fetch market order. 
