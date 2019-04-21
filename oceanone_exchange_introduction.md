@@ -20,14 +20,50 @@ XIN_ASSET_ID    = "c94ac88f-4671-3976-b60a-09064f1811e8"
 
 CNB_ASSET_ID    = "965e5c6e-434c-3fa9-b780-c50f43cd955c"
 ```
-To fetch CNB asset price in USDT market, visit [url]
-(https://events.ocean.one/markets/965e5c6e-434c-3fa9-b780-c50f43cd955c-815b0b1a-2764-3736-8faa-42d694fa620a/book).
+To fetch CNB asset price in USDT market, visit [url](https://events.ocean.one/markets/965e5c6e-434c-3fa9-b780-c50f43cd955c-815b0b1a-2764-3736-8faa-42d694fa620a/book).
 
 
 ```shell
 GET https://events.ocean.one/markets/965e5c6e-434c-3fa9-b780-c50f43cd955c-815b0b1a-2764-3736-8faa-42d694fa620a/book
 
-{'data': {'market': '965e5c6e-434c-3fa9-b780-c50f43cd955c-815b0b1a-2764-3736-8faa-42d694fa620a', 'event': 'BOOK-T0', 'sequence': '56243869035554898', 'data': {'asks': [{'amount': '24995415.8048', 'funds': '2499.54158048', 'price': '0.0001', 'side': 'ASK'}, {'amount': '1770387.5658', 'funds': '354.07751316', 'price': '0.0002', 'side': 'ASK'}, {'amount': '2290292.7169', 'funds': '687.08781507', 'price': '0.0003', 'side': 'ASK'}, {'amount': '2119263.5377', 'funds': '847.70541508', 'price': '0.0004', 'side': 'ASK'}, {'amount': '1755210', 'funds': '877.605', 'price': '0.0005', 'side': 'ASK'}, {'amount': '1963210', 'funds': '1177.926', 'price': '0.0006', 'side': 'ASK'}, {'amount': '1973210', 'funds': '1381.247', 'price': '0.0007', 'side': 'ASK'}, {'amount': '3583210', 'funds': '2866.568', 'price': '0.0008', 'side': 'ASK'}, {'amount': '1499010', 'funds': '1349.109', 'price': '0.0009', 'side': 'ASK'}, {'amount': '871912', 'funds': '871.912', 'price': '0.001', 'side': 'ASK'}, {'amount': '533299', 'funds': '5332.99', 'price': '0.01', 'side': 'ASK'}, {'amount': '100000', 'funds': '3140', 'price': '0.0314', 'side': 'ASK'}, {'amount': '2000', 'funds': '100', 'price': '0.05', 'side': 'ASK'}, {'amount': '500000', 'funds': '29500', 'price': '0.059', 'side': 'ASK'}, {'amount': '80021', 'funds': '80021', 'price': '1', 'side': 'ASK'}, {'amount': '5.6142', 'funds': '6.287904', 'price': '1.12', 'side': 'ASK'}, {'amount': '108.0131', 'funds': '124.215065', 'price': '1.15', 'side': 'ASK'}, {'amount': '2', 'funds': '12', 'price': '6', 'side': 'ASK'}, {'amount': '1', 'funds': '7', 'price': '7', 'side': 'ASK'}, {'amount': '1', 'funds': '8', 'price': '8', 'side': 'ASK'}, {'amount': '1', 'funds': '9', 'price': '9', 'side': 'ASK'}, {'amount': '41', 'funds': '410', 'price': '10', 'side': 'ASK'}, {'amount': '1', 'funds': '11', 'price': '11', 'side': 'ASK'}, {'amount': '20000', 'funds': '1600000', 'price': '80', 'side': 'ASK'}, {'amount': '40000', 'funds': '3960000', 'price': '99', 'side': 'ASK'}, {'amount': '500010', 'funds': '50001000', 'price': '100', 'side': 'ASK'}, {'amount': '10', 'funds': '1100', 'price': '110', 'side': 'ASK'}, {'amount': '32', 'funds': '3552', 'price': '111', 'side': 'ASK'}, {'amount': '20000', 'funds': '120000000', 'price': '6000', 'side': 'ASK'}], 'bids': []}, 'timestamp': '2019-04-21T14:26:56.813727114Z'}}
+{'data': 
+    {'market': '965e5c6e-434c-3fa9-b780-c50f43cd955c-815b0b1a-2764-3736-8faa-42d694fa620a', 
+     'event': 'BOOK-T0', 
+     'sequence': '56243869035554898', 
+     'data': 
+            {'asks': [
+                 {'amount': '24995415.8048', 'funds': '2499.54158048', 'price': '0.0001', 'side': 'ASK'}, 
+                 {'amount': '1770387.5658', 'funds': '354.07751316', 'price': '0.0002', 'side': 'ASK'}, 
+                 {'amount': '2290292.7169', 'funds': '687.08781507', 'price': '0.0003', 'side': 'ASK'}, 
+                 {'amount': '2119263.5377', 'funds': '847.70541508', 'price': '0.0004', 'side': 'ASK'}, 
+                 {'amount': '1755210', 'funds': '877.605', 'price': '0.0005', 'side': 'ASK'}, 
+                 {'amount': '1963210', 'funds': '1177.926', 'price': '0.0006', 'side': 'ASK'}, 
+                 {'amount': '1973210', 'funds': '1381.247', 'price': '0.0007', 'side': 'ASK'}, 
+                 {'amount': '3583210', 'funds': '2866.568', 'price': '0.0008', 'side': 'ASK'}, 
+                 {'amount': '1499010', 'funds': '1349.109', 'price': '0.0009', 'side': 'ASK'}, 
+                 {'amount': '871912', 'funds': '871.912', 'price': '0.001', 'side': 'ASK'}, 
+                 {'amount': '533299', 'funds': '5332.99', 'price': '0.01', 'side': 'ASK'}, 
+                 {'amount': '100000', 'funds': '3140', 'price': '0.0314', 'side': 'ASK'}, 
+                 {'amount': '2000', 'funds': '100', 'price': '0.05', 'side': 'ASK'}, 
+                 {'amount': '500000', 'funds': '29500', 'price': '0.059', 'side': 'ASK'}, 
+                 {'amount': '80021', 'funds': '80021', 'price': '1', 'side': 'ASK'}, 
+                 {'amount': '5.6142', 'funds': '6.287904', 'price': '1.12', 'side': 'ASK'}, 
+                 {'amount': '108.0131', 'funds': '124.215065', 'price': '1.15', 'side': 'ASK'}, 
+                 {'amount': '2', 'funds': '12', 'price': '6', 'side': 'ASK'}, 
+                 {'amount': '1', 'funds': '7', 'price': '7', 'side': 'ASK'}, 
+                 {'amount': '1', 'funds': '8', 'price': '8', 'side': 'ASK'}, 
+                 {'amount': '1', 'funds': '9', 'price': '9', 'side': 'ASK'}, 
+                 {'amount': '41', 'funds': '410', 'price': '10', 'side': 'ASK'}, 
+                 {'amount': '1', 'funds': '11', 'price': '11', 'side': 'ASK'}, 
+                 {'amount': '20000', 'funds': '1600000', 'price': '80', 'side': 'ASK'}, 
+                 {'amount': '40000', 'funds': '3960000', 'price': '99', 'side': 'ASK'}, 
+                 {'amount': '500010', 'funds': '50001000', 'price': '100', 'side': 'ASK'}, 
+                 {'amount': '10', 'funds': '1100', 'price': '110', 'side': 'ASK'}, 
+                 {'amount': '32', 'funds': '3552', 'price': '111', 'side': 'ASK'}, 
+                 {'amount': '20000', 'funds': '120000000', 'price': '6000', 'side': 'ASK'}], \
+          'bids': []
+         }, 
+    'timestamp': '2019-04-21T14:26:56.813727114Z'}}
 ```
 
 OceanOne also provide websocket interface to fetch market order.
