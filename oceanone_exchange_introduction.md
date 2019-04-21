@@ -3,9 +3,9 @@ OceanOne is a decentralized exchange build on Mixin Network. It's almost the fir
 1. Open. You can List Any asset supported by Mixin Network(13 blockchain assets, any ERC20 token, any EOS token, any TRC10 token).
 2. Safe. The engine send asset to your wallet after your order is matched. 
 3. Fast. Just need 5 seconds to place your order and received asset.
+4. Free. OceanOne just match order, don't care who you are. You can use any Mixin wallet to place order.
 
 I paid 1 USDT to buy CNB. Just 4 seconds, CNB asset has been in my wallet.
-
 ![](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/Buy_CNB_By_Selling_USDT.png)
 
 ### How to query market price
