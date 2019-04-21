@@ -65,4 +65,5 @@ OceanOne will pay Bitcoin to your account if your order is matched, the payment 
 You can cancel your order by pay any amount of any asset to OceanOne, write the order it into memo. OceanOne will cancel your order and send your money back.
 
 [Js exmaple](http://github.com/over140/mixcoin)
-[Python example)(http://github.com/myrual/pixinwallet)
+
+[Python example](http://github.com/myrual/pixinwallet)
