@@ -77,6 +77,10 @@ OceanOne will sent CNB to your wallet with some detail embedded in payment memo.
 ### How to cancel order
 Just embedded the order id in payment memo, and pay any asset with any amount to OceanOne, your order will be cancel and your USDT will be send back to your wallet instantly.
 
-[JS example](http://github.com/over140/mixcoin)
+### Document and source code
+[OceanOne github repo](https://github.com/MixinNetwork/ocean.one)
 
-[Python example](http://github.com/myrual/pixinwallet)
+[https://mixcoin.one](http://github.com/over140/mixcoin), this is a website designed for Mixin Messenger user.
+
+[Pixinwallet](http://github.com/myrual/pixinwallet), this is a battery included Mixin Network cold wallet. It support listing order to OceanOne.
+
