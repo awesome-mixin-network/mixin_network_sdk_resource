@@ -53,17 +53,4 @@ SDK, Tutorial and examples
 
 #### OceanOne solution:
 [OceanOne](http://github.com/mixinnetwork/oceanone) is an exchange build on Mixin Network. 
-You can list ANY asset supported by Mixin Network(13 blockchain asset, any ERC20 token, any EOS token, any TRC10 token) on OceanOne engine. The engine will match all orders and send asset to your wallet after your order is matched. It's almost the first time that a decentralized exchange gain the same user experience as a centralized one.
-
-OceanOne provide realtime market information throught http and websocket interface.
-
-Making order is done by paying asset to Ocean account: aaff5bef-42fb-4c9f-90e0-29f69176b7d4. You can make limit price order or market price order. 
-If you want to sell USDT to buy Bitcoin, pay USDT to oceanone account, write Bitcoin asset id, price, order type, operation type into payment memo. The payment traceid automatically become your order id to OceanOne.
-
-OceanOne will pay Bitcoin to your account if your order is matched, the payment memo will contains some information.
-
-You can cancel your order by pay any amount of any asset to OceanOne, write the order it into memo. OceanOne will cancel your order and send your money back.
-
-[JS example](http://github.com/over140/mixcoin)
-
-[Python example](http://github.com/myrual/pixinwallet)
+[Introduction](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/oceanone_exchange_introduction.md)
