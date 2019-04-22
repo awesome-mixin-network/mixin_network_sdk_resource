@@ -50,12 +50,14 @@ SDK, Tutorial and examples
 [Python wallet support ExinCore traiding](https://github.com/myrual/bitcoin-cli-wallet-python)
 
 ##### Instant Exincore Bitcoin trading tutorial
-[Trading Bitcoin by PHP languge](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README4.md)
-[Trading Bitcoin by Go languge](https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README4.md)
-[Trading Bitcoin by Javascript](https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README4.md)
-[Trading Bitcoin by C#](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README4.md)
-[Trading Bitcoin by Java](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README4.md)
+1. [Trading Bitcoin by PHP languge](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README4.md)
+2. [Trading Bitcoin by Go languge](https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README4.md)
+3. [Trading Bitcoin by Javascript](https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README4.md)
+4. [Trading Bitcoin by C#](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README4.md)
+5. [Trading Bitcoin by Java](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README4.md)
 
 #### OceanOne solution:
 [OceanOne](http://github.com/mixinnetwork/oceanone) is an exchange build on Mixin Network. 
 [Introduction](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/oceanone_exchange_introduction.md)
+
+1. [Listing order by Python](https://github.com/myrual/bitcoin-cli-wallet-python)
