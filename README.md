@@ -60,4 +60,11 @@ SDK, Tutorial and examples
 [OceanOne](http://github.com/mixinnetwork/oceanone) is an exchange build on Mixin Network. 
 [Introduction](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/oceanone_exchange_introduction.md)
 
-1. [Listing order by Python](https://github.com/myrual/bitcoin-cli-wallet-python)
+1. [Listing order by Python](https://github.com/myrual/pixinwallet)
+2. [List Bitcoin order by PHP](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README5.md)
+3. [List Any ERC20 token by PHP](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README6.md)
+4. [List bitcoin order by Java](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README5.md)
+5. [List Any ERC20 token by PHP](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README6.md)
+
+
+
