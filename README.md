@@ -49,6 +49,9 @@ https://github.com/wenewzhang/mixin_network-nodejs-bot2
 #### C# bitcoin tutorial
 https://github.com/wenewzhang/mixin_labs-csharp-bot
 
+#### Ruby Bitcoin tutorial
+https://github.com/wenewzhang/mixin_labs-ruby-bot
+
 ### [How to: by Mixin Network API](https://github.com/awesome-mixin-network/mixin_network_sdk_resource/blob/master/how_to_mixin_network_cn.md)
 
 
