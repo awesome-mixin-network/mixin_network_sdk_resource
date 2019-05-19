@@ -87,6 +87,7 @@ https://github.com/wenewzhang/mixin_labs-ruby-bot
 |Golang| (https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README5.md)|https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README6.md|
 |Node.js| https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README5.md|https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README6.md|
 |C#| https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README6.md|
+|Java| https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README6.md|
 
 1. [Listing order by Python](https://github.com/myrual/pixinwallet)
 2. [List Bitcoin order by PHP](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README5.md)
