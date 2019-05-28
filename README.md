@@ -62,6 +62,7 @@ https://github.com/wenewzhang/mixin_labs-ruby-bot
 4. [Create wallet in Java](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README3.md)
 5. [Create wallet in Node.js](https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README3.md)
 6. [Create wallet in C#](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README3.md)
+7. [Create wallet in Ruby](https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README3.md)
 ### How to buy Bitcoin in Mixin Network
 #### ExinCore solution:
 [ExinCore](https://github.com/ExinOne/ExinCore) provide API to buy and sell Bitcoin. Developer can use their favorite programming language to trade crypto currency.
@@ -75,6 +76,7 @@ https://github.com/wenewzhang/mixin_labs-ruby-bot
 3. [Trading Bitcoin by Javascript](https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README4.md)
 4. [Trading Bitcoin by C#](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README4.md)
 5. [Trading Bitcoin by Java](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README4.md)
+6. [Trading Bitcoin by Ruby](https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README4.md)
 
 #### OceanOne solution:
 [OceanOne](http://github.com/mixinnetwork/oceanone) is an exchange build on Mixin Network. 
@@ -88,4 +90,6 @@ https://github.com/wenewzhang/mixin_labs-ruby-bot
 |Node.js| https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README5.md|https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README6.md|
 |C#| https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README6.md|
 |Java| https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README6.md|
+|Ruby| https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README6.md|
+
 
