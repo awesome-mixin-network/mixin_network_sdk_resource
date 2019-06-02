@@ -85,11 +85,11 @@ https://github.com/wenewzhang/mixin_labs-ruby-bot
 ||List Bitcoin| List Any ERC20 Token|
 |--|--|--|
 |Python| https://github.com/myrual/pixinwallet|https://github.com/myrual/pixinwallet|
-|PHP| https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README6.md|
-|Golang| (https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README5.md)|https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README6.md|
-|Node.js| https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README5.md|https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README6.md|
-|C#| https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README6.md|
-|Java| https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README6.md|
-|Ruby| https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README5.md|https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README6.md|
+|PHP| [Buy and sell BTC on decentralized exchange](https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README5.md)|https://github.com/wenewzhang/mixin_labs-php-bot/blob/master/README6.md|
+|Golang|[Buy and sell BTC on decentralized exchange](https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README5.md)|https://github.com/wenewzhang/mixin_labs-go-bot/blob/master/README6.md|
+|Node.js| [Buy and sell BTC on decentralized exchange]([Buy and sell BTC on decentralized exchange](https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README5.md)|https://github.com/wenewzhang/mixin_network-nodejs-bot2/blob/master/README6.md|
+|C#| [Buy and sell BTC on decentralized exchange](https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README5.md)|https://github.com/wenewzhang/mixin_labs-csharp-bot/blob/master/README6.md|
+|Java| [Buy and sell BTC on decentralized exchange](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README5.md)|https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README6.md|
+|Ruby| [Buy and sell BTC on decentralized exchange](https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README5.md)|[Buy and sell Any ERC20 on decentralized exchange](https://github.com/wenewzhang/mixin_labs-ruby-bot/blob/master/README6.md)|
 
 
